@@ -11,7 +11,7 @@ a.k.a. Marinara. Make alot and can it. Or not you lazy bastard.
 - **TT** Balsamic vinegar reduction (Optional)
   
 ## Instructions:
-1. IN a pot brown the garlic in oil. Just until it is golden. Do not let parts of the garlic become **dark** brown or black.
+1. In a pot brown the garlic in oil. Just until it is golden. Do not let parts of the garlic become **dark** brown or black.
 2. Add tomatoes. 
 3. Add hot stuff. I prefer fresnos, which I just smash once or slice in half. You just need to allow liquid to penetrate the skin since you will not cook for a long time.
 4. Add your sprig of basil to the top and allow it to wilt in to the sauce.
