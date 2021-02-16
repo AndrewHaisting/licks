@@ -2,7 +2,8 @@
 Makes 12 8in diameter tortillas.
 ## Ingredients
 - **3/4 lb** (2.75 C) All-purpose flour
-- **5 T** Animal fat (lard, duck fat, beef fat)
+- **5 T** Fat (lard, duck fat, beef fat, vegetable)
+  - half animal half vegetable is optimal
 - **3/4 t** Salt
 - **3/4 C** Very warm water
 
