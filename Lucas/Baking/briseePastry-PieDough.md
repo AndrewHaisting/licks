@@ -12,6 +12,7 @@ Perfect pie crust everytime. Don't be afraid of the accents on the e's. Makes a 
 
 ## Instructions:
 
+### Dough:
 1. Combine flour, salt and sugar in a food processor or mixer. I recommend the food processor but if doing larger batches use a mixer.
 2. Add the butter half at a time. Pulse or mix until it resembles a coarse meal. Some butter pieces should be the size of peas.
    - You want frozen butter because it causes the butter to be cut into small units and not spread or smear. Small pieces of butter create pockets of steam that result in **flakey** crust.
@@ -24,7 +25,7 @@ Perfect pie crust everytime. Don't be afraid of the accents on the e's. Makes a 
 8. Line your pan. Use a piece of extra dough to press the dough into the corner of the pan. This saves you from cutting holes in the dough with your fingers.
 9. Clean up the ridges as you wish and blind bake the crust before filling.
 
-Blind baking:
+## Baking:
 - Line the dough with aluminum foil and fill it with dried beans, rice or baking weights.
 - Freeze for 30 mins to an hour.
 - Bake at 350 °F for 45 mins.
